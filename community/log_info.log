@@ -1,0 +1,42 @@
+2021-02-08 11:40:27,855 INFO [restartedMain] c.c.m.MyCommunityApplication [StartupInfoLogger.java:55] Starting MyCommunityApplication using Java 14.0.1 on LAPTOP-N7KMMOPR with PID 13944 (D:\DM\Java\SSM+SpringBoot+SpringCloud\Projects\myCommunity\target\classes started by Lenovo Pro in D:\DM\Java\SSM+SpringBoot+SpringCloud\Projects\myCommunity)
+2021-02-08 11:40:27,856 INFO [restartedMain] c.c.m.MyCommunityApplication [SpringApplication.java:660] No active profile set, falling back to default profiles: default
+2021-02-08 11:40:28,053 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2021-02-08 11:40:28,054 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-02-08 11:40:28,063 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-02-08 11:40:28,079 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-02-08 11:40:28,080 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:289] Root WebApplicationContext: initialization completed in 222 ms
+2021-02-08 11:40:28,112 INFO [restartedMain] c.a.d.s.b.a.DruidDataSourceAutoConfigure [DruidDataSourceAutoConfigure.java:56] Init DruidDataSource
+2021-02-08 11:40:28,153 INFO [restartedMain] c.a.d.p.DruidDataSource [DruidDataSource.java:928] {dataSource-2} inited
+2021-02-08 11:40:28,225 INFO [restartedMain] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-08 11:40:28,240 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2021-02-08 11:40:28,289 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:58] LiveReload server is running on port 35729
+2021-02-08 11:40:28,317 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-02-08 11:40:28,321 INFO [restartedMain] c.c.m.MyCommunityApplication [StartupInfoLogger.java:61] Started MyCommunityApplication in 0.53 seconds (JVM running for 3279.206)
+2021-02-08 11:40:28,323 INFO [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener [ConditionEvaluationDeltaLoggingListener.java:63] Condition evaluation unchanged
+2021-02-08 11:40:29,732 INFO [Thread-8] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:218] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-02-08 11:40:29,733 INFO [Thread-8] c.a.d.p.DruidDataSource [DruidDataSource.java:1823] {dataSource-2} closed
+2021-02-08 11:40:29,800 INFO [restartedMain] c.c.m.MyCommunityApplication [StartupInfoLogger.java:55] Starting MyCommunityApplication using Java 14.0.1 on LAPTOP-N7KMMOPR with PID 13944 (D:\DM\Java\SSM+SpringBoot+SpringCloud\Projects\myCommunity\target\classes started by Lenovo Pro in D:\DM\Java\SSM+SpringBoot+SpringCloud\Projects\myCommunity)
+2021-02-08 11:40:29,800 INFO [restartedMain] c.c.m.MyCommunityApplication [SpringApplication.java:660] No active profile set, falling back to default profiles: default
+2021-02-08 11:40:30,034 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2021-02-08 11:40:30,035 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-02-08 11:40:30,035 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-02-08 11:40:30,057 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-02-08 11:40:30,057 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:289] Root WebApplicationContext: initialization completed in 254 ms
+2021-02-08 11:40:30,091 INFO [restartedMain] c.a.d.s.b.a.DruidDataSourceAutoConfigure [DruidDataSourceAutoConfigure.java:56] Init DruidDataSource
+2021-02-08 11:40:30,131 INFO [restartedMain] c.a.d.p.DruidDataSource [DruidDataSource.java:928] {dataSource-3} inited
+2021-02-08 11:40:30,208 INFO [restartedMain] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-08 11:40:30,225 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2021-02-08 11:40:30,274 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:58] LiveReload server is running on port 35729
+2021-02-08 11:40:30,304 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-02-08 11:40:30,307 INFO [restartedMain] c.c.m.MyCommunityApplication [StartupInfoLogger.java:61] Started MyCommunityApplication in 0.539 seconds (JVM running for 3281.192)
+2021-02-08 11:40:30,309 INFO [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener [ConditionEvaluationDeltaLoggingListener.java:63] Condition evaluation unchanged
+2021-02-08 11:40:30,989 INFO [main] c.c.m.LoggerTests [StartupInfoLogger.java:55] Starting LoggerTests using Java 14.0.1 on LAPTOP-N7KMMOPR with PID 16396 (started by Lenovo Pro in D:\DM\Java\SSM+SpringBoot+SpringCloud\Projects\myCommunity)
+2021-02-08 11:40:30,991 INFO [main] c.c.m.LoggerTests [SpringApplication.java:660] No active profile set, falling back to default profiles: default
+2021-02-08 11:40:31,978 INFO [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure [DruidDataSourceAutoConfigure.java:56] Init DruidDataSource
+2021-02-08 11:40:32,171 INFO [main] c.a.d.p.DruidDataSource [DruidDataSource.java:928] {dataSource-1} inited
+2021-02-08 11:40:32,674 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-08 11:40:32,800 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2021-02-08 11:40:33,118 INFO [main] c.c.m.LoggerTests [StartupInfoLogger.java:61] Started LoggerTests in 2.487 seconds (JVM running for 3.482)
+2021-02-08 11:40:33,510 INFO [main] c.c.m.LoggerTests [LoggerTests.java:23] info log
+2021-02-08 11:40:33,521 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:218] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-02-08 11:40:33,523 INFO [SpringContextShutdownHook] c.a.d.p.DruidDataSource [DruidDataSource.java:1823] {dataSource-1} closed

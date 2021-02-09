@@ -1,0 +1,35 @@
+server:
+  servlet:
+    context-path: /community
+
+#关闭模板引擎的缓存
+
+# logger
+spring:
+  thymeleaf:
+    cache: false
+  #  数据库配置
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/community?characterEncoding=utf8&useSSL=false&serverTimezone=UTC&rewriteBatchedStatements=true
+    username: root
+    password: admin
+    type: com.zaxxer.hikari.HikariDataSource
+    hikari:
+      maximum-pool-size: 15
+      minimum-idle: 5
+      idle-timeout: 30000
+
+#mybatis 配置
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.cmj.myCommunity.entity
+  configuration:
+    use-generated-keys: true
+    map-underscore-to-camel-case: true
+
+
+#logger
+#logging:
+#  file:
+#    path: D:/DM/Java/SSM+SpringBoot+SpringCloud/Projects/myCommunity/community.log
